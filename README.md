@@ -1,1 +1,1 @@
-# [Link para o acessar o meu sorteador de SuperHeróis](vtsuellen-superheroes.surge.sh)
+# [Link para o acessar o meu sorteador de SuperHeróis](https://vtsuellen-superheroes.surge.sh/)
